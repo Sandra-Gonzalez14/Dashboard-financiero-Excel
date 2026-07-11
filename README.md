@@ -1,2 +1,19 @@
 # Dashboard-financiero-Excel
-Proyecto en Excel que incluye la elaboración de una cuenta de resultados y el desarrollo de un Dashboard financiero para su análisis a partir de los datos facilitados.
+
+## Descripción
+Este proyecto consiste en el desarrollo de un Dashboard financierto en Microsot Excel para el análisis de una cuenta de resultados.
+
+El proyecto incluye la elaboración de la cuenta de resultados a partir de los datos facilitados, la organización de la información y el diseño de un dashboard que permite visualizar los principales indicadores de forma rápida e intuitiva.
+
+## Herramientas utilizadas
+
+- Microsoft Excel
+- Fórmulas de Excel
+- Tablas
+- Gráficos
+
+## Contenido
+
+- Elaboración de la cuenta de resultados.
+- Desarrollo del dashboard financiero.
+- Visualización de la información mediante gráficos e indicadores.
