@@ -33,6 +33,8 @@ En esta sección se muestran las tablas de información financiera, los gráfico
 
 ![Primera parte del dashboard](images/Dashboard-financiero-parte-1.png)
 
+El dasboard es interactivo y puede explorarse descargando el archivo Excel incluido en este respositorio.
+
 ### Parte 2 del dashboard
 
 En esta sección se presenta una comparativa de los principales indicadores financieros, facilitando el análisis y la interpretación de los resultados.
