@@ -17,3 +17,9 @@ El proyecto incluye la elaboración de la cuenta de resultados a partir de los d
 - Elaboración de la cuenta de resultados.
 - Desarrollo del dashboard financiero.
 - Visualización de la información mediante gráficos e indicadores.
+
+  ## Dashboard completo
+
+  ![Dashoard completo] (images/Dashboard-financiero-completo.png)
+
+  ## Parte 1 del Dashboard
