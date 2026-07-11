@@ -40,3 +40,5 @@ El dasboard es interactivo y puede explorarse descargando el archivo Excel inclu
 En esta sección se presenta una comparativa de los principales indicadores financieros, facilitando el análisis y la interpretación de los resultados.
 
 ![Segunda parte del dashboard](images/Dashboard-financiero-parte-2.png)
+
+El dashboard es interactivo y puede explorarse descargando el archivo Excel incluido en este repositorio.
