@@ -23,7 +23,7 @@ El proyecto incluye la elaboración de la cuenta de resultados a partir de los d
 
 ### Dashboard completo
 
-![Dashboard completo](images/Dashnoard-financiero-completo.png)
+![Dashboard completo](images/Dashboard-financiero-completo.png)
 
 Vista general del dashboard financiero desarrollado en Excel para el análisis de una cuenta de resultados. Debido al tamaño del dashboard, a continuación se muestran cpturas ampliadas de cada una de sus secciones.
 
