@@ -41,4 +41,6 @@ En esta sección se presenta una comparativa de los principales indicadores fina
 
 ![Segunda parte del dashboard](images/Dashboard-financiero-parte-2.png)
 
+##Descarga del archivo
+
 El dashboard es interactivo y puede explorarse descargando el archivo Excel incluido en este repositorio.
