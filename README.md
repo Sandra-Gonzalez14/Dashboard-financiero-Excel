@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto consiste en el desarrollo de un Dashboard financierto en Microsot Excel para el análisis de una cuenta de resultados.
+Este proyecto consiste en el desarrollo de un Dashboard financiero en Microsot Excel para el análisis de una cuenta de resultados.
 
 El proyecto incluye la elaboración de la cuenta de resultados a partir de los datos facilitados, la organización de la información y el diseño de un dashboard que permite visualizar los principales indicadores de forma rápida e intuitiva.
 
